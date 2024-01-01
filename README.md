@@ -16,7 +16,7 @@ The employee mental health assessment using vuejs ,vuetify,nodejs,expressjs
 ### Screenshot 4: Result detail page
 <img src="/screenshot/4.png" alt="Screenshot 4" width="700">
 
-### Screenshot 5: database
+### Screenshot 5: database tabbble
 <img src="/screenshot/5.png" alt="Screenshot 5" width="700">
 
 

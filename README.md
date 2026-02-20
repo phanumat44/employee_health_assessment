@@ -27,16 +27,17 @@ The landing page provides a welcoming environment to encourage employee particip
 ### **Admin & Insights**
 HR administrators can view a high-level table of results and drill down into specific "Result Detail" pages to understand individual burnout scores and metrics.
 
-| Results Dashboard | Detail Analysis |
-|---|---|
-|<img src="/screenshot/3.png" alt="Screenshot 3" width="1280"> |<img src="/screenshot/4.png" alt="Screenshot 4" width="1280"> |
+|  Results Dashboard |
+|---|
+|<img src="/screenshot/3.png" alt="Screenshot 3" width="1280">  |
+
+|  Detail Analysis |
+|---|
+|<img src="/screenshot/4.png" alt="Screenshot 3" width="1280">  |
 
 ---
 
-| Screenshots |
-|---|
-|<img src="/screenshot/3.png" alt="Screenshot 3" width="1280">  |
-|<img src="/screenshot/4.png" alt="Screenshot 4" width="1280"> |
+
 
 ## 📦 Local Setup
 

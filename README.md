@@ -45,14 +45,14 @@ The landing page provides a welcoming environment to encourage employee particip
 
 | Home Page | Assessment Interface |
 |---|---|
-|([<img src="/screenshot/1.png" alt="Screenshot 1" width="700">]) | ![Assessment Page]([Insert Image Path Here]) |
+|<img src="/screenshot/1.png" alt="Screenshot 1" width="700"> | <img src="/screenshot/2.png" alt="Screenshot 2" width="700"> |
 
 ### **Admin & Insights**
 HR administrators can view a high-level table of results and drill down into specific "Result Detail" pages to understand individual burnout scores and metrics.
 
 | Results Dashboard | Detail Analysis |
 |---|---|
-| ![Results Table]([Insert Image Path Here]) | ![Detail Page]([Insert Image Path Here]) |
+|<img src="/screenshot/3.png" alt="Screenshot 3" width="700"> |<img src="/screenshot/4.png" alt="Screenshot 4" width="700"> |
 
 ---
 

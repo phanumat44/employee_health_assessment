@@ -33,8 +33,8 @@ A full-stack web application designed to help organizations monitor and support 
 
 ## 🛠️ Tech Stack
 * **Frontend:** Vue.js with Vuetify for a responsive, professional Material Design UI.
-* **Backend:** Node.js & Express.js for a robust RESTful API.
-* **Database:** SQL-based management for structured health data storage.
+* **Backend:** Node.js & Express.js for RESTful API.
+* **Database:** MSSQL for structured health data storage.
 
 ---
 

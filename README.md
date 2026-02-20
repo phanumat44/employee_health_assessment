@@ -33,6 +33,11 @@ HR administrators can view a high-level table of results and drill down into spe
 
 ---
 
+| Screenshots |
+|---|
+|<img src="/screenshot/3.png" alt="Screenshot 3" width="1280">  |
+||<img src="/screenshot/4.png" alt="Screenshot 4" width="1280"> |
+
 ## 📦 Local Setup
 
 1. **Clone the repository:**

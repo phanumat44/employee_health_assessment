@@ -20,9 +20,14 @@ A full-stack web application designed to help organizations monitor and support 
 ### **User Experience**
 The landing page provides a welcoming environment to encourage employee participation, while the assessment page uses a clear, distraction-free layout for survey questions.
 
-| Home Page | Assessment Interface |
-|---|---|
-|<img src="/screenshot/1.png" alt="Screenshot 1" width="1280"> | <img src="/screenshot/2.png" alt="Screenshot 2" width="1280"> |
+|  Home Page |
+|---|
+|<img src="/screenshot/1.png" alt="Screenshot 3" width="1280">  |
+
+|  Assessment Interface |
+|---|
+|<img src="/screenshot/2.png" alt="Screenshot 3" width="1280">  |
+
 
 ### **Admin & Insights**
 HR administrators can view a high-level table of results and drill down into specific "Result Detail" pages to understand individual burnout scores and metrics.
